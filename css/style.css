@@ -2,7 +2,8 @@
 
 .manavbar{
 
-display: flex;
+display: flexbox;
+text-align: center;
 
 }
 
