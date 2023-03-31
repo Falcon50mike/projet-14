@@ -1,11 +1,21 @@
 
 
-.manavbar{
 
-text-align: center;
-justify-content: center;
+
+
+.flo{
+    top: 0;
+    position: fixed;
+    z-index: 3;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    background-image: url(../img/redbull-logo.jpg);
+   
 }
 
-.col{
-    color: blue;
+.voiture{
+    width: 100%;
+    height: 30px;
+    background-image: url(../img/redbull-voiture.jpg);
 }

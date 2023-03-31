@@ -1,4 +1,5 @@
 .navbar {
     background-image: url(../img/redbull-logo-clair.jpg);
     justify-content: center;
+    display: flex;
 }
