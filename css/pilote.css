@@ -1,0 +1,49 @@
+
+.flo{
+
+    top: 0;
+    position: fixed;
+    z-index: 3;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    text-align: center; 
+    filter: drop-shadow(0.7rem 0.5rem 1rem black);
+}
+
+.logoRed{
+    border-top: 0px;
+}
+
+.piloteversta{
+    margin-top: 5%;
+    justify-content: center;
+    display: flex;
+    text-align: center; 
+    filter: drop-shadow(0.7rem 0.5rem 1rem blue);
+}
+
+.drapeau{
+    justify-content: space-around;
+    display: flex;
+    margin-top: 15%;
+}
+
+.pilote{
+    margin-top: 5%;
+    justify-content: center;
+    display: flex;
+    text-align: center; 
+    filter: drop-shadow(0.7rem 0.5rem 1rem red);
+
+
+}
+
+.copyright{
+    margin-top: 2%;
+    width: 100%;
+    padding: 2em;
+    color: white;
+    text-align: center;
+    background-color: #061A2E;
+  }

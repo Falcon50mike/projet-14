@@ -1,0 +1,78 @@
+
+
+
+.flo{
+    top: 0;
+    position: fixed;
+    z-index: 3;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    text-align: center; 
+    filter: drop-shadow(0.9rem 0.5rem 1rem #201f1f9e);
+} 
+
+.bouton{
+    background-color: white;
+    color: #061A2E;
+}
+.bouton:hover{
+    background-color:#061A2E !important;
+}
+
+.gif{
+    margin-top: 3%;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 3%;
+}
+
+.cardgroup{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+
+.cristian{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    text-decoration: double;
+    padding-top: 4%;
+    border-top: 1px solid black;
+    padding-bottom: 4%;
+}
+
+p {
+    margin-top: 15%;
+    margin-bottom: 1rem;
+}
+
+.adrian{
+    justify-content: left;
+    display: flex;
+    text-align: center;
+    text-decoration: double;
+    padding-top: 4%;
+    border-top: 1px solid black;
+    padding-bottom: 4%;
+}
+
+.pierre{
+    justify-content: left;
+    display: flex;
+    text-align: center;
+    text-decoration: double;
+    padding-top: 4%;
+    border-top: 1px solid black;
+    padding-bottom: 4%;
+}
+
+.copyright{
+    margin-top: 2%;
+    width: 100%;
+    padding: 2em;
+    color: white;
+    text-align: center;
+    background-color: #061A2E;
+  }

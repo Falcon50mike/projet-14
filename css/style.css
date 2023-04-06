@@ -5,10 +5,17 @@
     position: fixed;
     z-index: 3;
     width: 100%;
-    justify-content: center;
+    justify-content: space-around;
     display: flex;
-    background-image: url(../img/redbull-logo.jpg);
-    text-align: center;  
+    text-align: center; 
+    filter: drop-shadow(0.9rem 0.5rem 1rem #201f1f9e);
+    color: #061A2E;
+    background-color:#061A2E;
+
+} 
+
+.bouton:hover{
+    background-color:#061A2E !important;
 }
 
 .me-2{
@@ -21,7 +28,7 @@
 }
    
 .carou{
-    margin-top: 4.5%;
+    margin-top: 2%;
     }
 
 .mb-3{
@@ -30,15 +37,26 @@
 }
 
 .écurie{
-    margin-top: 0%;
-    justify-content: center;
+    margin-top: 4%;
+    justify-content: left;
     display: flex;
-}
+    text-align: center;
+    text-decoration: double;
+    padding-top: 4%;
+    border-top: 1px solid black;
+    padding-bottom: 4%;
 
+}
+p {
+    margin-top: 15%;
+    margin-bottom: 1rem;
+}
 .contact{
     width: 50%;
     margin-left: 25%;
     text-align: center;
+    padding-top: 4%;
+    border-top: 1px solid black;
 }
 
 .copyright{
@@ -46,6 +64,6 @@
     width: 100%;
     padding: 2em;
     color: white;
-    background-image: url(../img/redbull-logo.jpg);
     text-align: center;
+    background-color: #061A2E;
   }
