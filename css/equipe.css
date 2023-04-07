@@ -9,7 +9,9 @@
     justify-content: center;
     display: flex;
     text-align: center; 
-    filter: drop-shadow(0.9rem 0.5rem 1rem #201f1f9e);
+    filter: drop-shadow(0.9rem 0.7rem 1rem #061A2E);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
 } 
 
 .bouton{
@@ -25,6 +27,8 @@
     justify-content: center;
     display: flex;
     margin-bottom: 3%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
 }
 
 .cardgroup{
@@ -34,6 +38,7 @@
 }
 
 .cristian{
+    margin-right: 10%;
     justify-content: center;
     display: flex;
     text-align: center;
@@ -41,14 +46,16 @@
     padding-top: 4%;
     border-top: 1px solid black;
     padding-bottom: 4%;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
 p {
     margin-top: 15%;
     margin-bottom: 1rem;
 }
 
 .adrian{
+   margin-left: 2%;
     justify-content: left;
     display: flex;
     text-align: center;
@@ -56,9 +63,12 @@ p {
     padding-top: 4%;
     border-top: 1px solid black;
     padding-bottom: 4%;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .pierre{
+    margin-right: 10%;
     justify-content: left;
     display: flex;
     text-align: center;
@@ -66,6 +76,8 @@ p {
     padding-top: 4%;
     border-top: 1px solid black;
     padding-bottom: 4%;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .copyright{

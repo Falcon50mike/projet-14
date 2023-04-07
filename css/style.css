@@ -8,9 +8,11 @@
     justify-content: space-around;
     display: flex;
     text-align: center; 
-    filter: drop-shadow(0.9rem 0.5rem 1rem #201f1f9e);
+    filter: drop-shadow(0.9rem 0.7rem 1rem #061A2E);
     color: #061A2E;
     background-color:#061A2E;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
 
 } 
 
@@ -45,9 +47,11 @@
     padding-top: 4%;
     border-top: 1px solid black;
     padding-bottom: 4%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
 
 }
-p {
+p{
     margin-top: 15%;
     margin-bottom: 1rem;
 }
@@ -57,6 +61,8 @@ p {
     text-align: center;
     padding-top: 4%;
     border-top: 1px solid black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
 }
 
 .copyright{
